@@ -1,6 +1,6 @@
 # Charlie Miguel Levano Almeyda
 
-Estudiante de décimo ciclo de Ingeniería Informática en la Pontificia Universidad Católica del Perú (PUCP).
+Ingeniería Informática en la Pontificia Universidad Católica del Perú (PUCP).
 
 ## Tecnologías y Herramientas
 
