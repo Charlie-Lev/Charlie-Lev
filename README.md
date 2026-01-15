@@ -25,7 +25,7 @@ Estudiante de décimo ciclo de Ingeniería Informática en la Pontificia Univers
 ## Proyectos Destacados
 
 * **Sistema de Gestión de Producción (Oracle SQL Developer):** Diseño e implementación de base de datos para un laboratorio farmacéutico, abarcando el control de inventarios y procesos de compra-venta.
-* **MatrisoftGO:** Sistema de gestión de matrículas universitarias desarrollado con backend en Go (Gin/Echo). Seleccionado para la feria XpoSTEM 24-2.
+* **MatrisoftGO:** Sistema de gestión de matrículas universitarias desarrollado con backend en Go (Gin/Echo).
 * **Smart Clean Vision:** Modelo de detección de residuos urbanos mediante técnicas de visión computacional y Deep Learning (YOLO).
 * **Desarrollo Full-stack:** Aplicaciones e-commerce desarrolladas utilizando entornos Java y .NET.
 
